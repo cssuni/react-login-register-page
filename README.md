@@ -1,3 +1,4 @@
+// Something added to generate pull request
 # Logster - login/register-page-app
 
 > Simple login/register-page-app created with React js.
